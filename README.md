@@ -1,10 +1,10 @@
 # Amanda Rivera
 
-[My Site](amandar8529@hstat.org)
+###[My Site](amandar8529@hstat.org)
 
-## ** Student**
+### ** Student**
 
-_High School of Telecommuincations Arts and Technology_
+**_High School of Telecommuincations Arts and Technology_**
 
 I grew up in Bay Ridge on the army base. I moved to Sunet Park when I was ten years old. I went to school at P.S/I.S 104 for my entire school life, until high school when I came to Telecommuncations
 
