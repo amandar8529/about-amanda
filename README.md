@@ -1,8 +1,8 @@
-## Amanda Rivera
+# Amanda Rivera
 
 [My Site](amandar8529@hstat.org)
 
-**## Student**
+## ** Student**
 
 _High School of Telecommuincations Arts and Technology_
 
@@ -18,3 +18,9 @@ I grew up in Bay Ridge on the army base. I moved to Sunet Park when I was ten ye
 7.SEP  
 8.Gym
 
+hobbies:  
+  go to church  
+  hang out with friends  
+  watch tv shows  
+  play sports  
+  take care of kids
