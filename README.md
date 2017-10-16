@@ -1,6 +1,6 @@
 # Amanda Rivera
 
-###[My Site](amandar8529@hstat.org)
+### [My Site](amandar8529@hstat.org)
 
 ### ** Student**
 
